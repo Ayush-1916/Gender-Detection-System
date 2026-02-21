@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+gender_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.keras
+*.h5
+*.model
+*.pb
+
+# OS files
+.DS_Store
